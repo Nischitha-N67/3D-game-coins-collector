@@ -1,1 +1,2 @@
 # 3D-game-coins-collector
+A dynamic and immersive 3D coin collection game developed in C# using Unity, designed for both Augmented Reality (AR) and Virtual Reality (VR) platforms. Players explore interactive environments to collect coins through gaze, gesture, or controller input. Featuring real-time physics, animated collectibles, and cross-platform AR/VR support, the game delivers an engaging spatial experience ideal for mobile AR, VR headsets, or mixed reality systems.
